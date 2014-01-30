@@ -1,7 +1,6 @@
-Is-it-worth
+Is it worth?
 ===========
-<<<<<<< HEAD
+A calculator for the most efficient CPU mined coin to trade for extra Doge
 
-A calculator to tell if it is worth it to mine [altcoin1], trade it for [bitcoin] then rade it to [DOGE]
-=======
->>>>>>> e9dc88c2493ebf7b838307769a6c41f7b4cb62df
+
+[much donate: DC1nT4ie7zdNc7z1qwDWEBvX26itmz3sD4]
